@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="299d8026-0d1f-4b50-9c9b-c329e5e8b1c0" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/out/production/UDPClientServer/com/company/UDPServer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/company/UDPClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/UDPClient.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/company/UDPServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/UDPServer.java" afterDir="false" />
     </list>
@@ -38,12 +38,12 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="7219" />
+          <entry key="java" value="10712" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="7219" />
+          <entry key="JAVA" value="10712" />
         </counts>
       </usages-collector>
     </session>
@@ -55,16 +55,13 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/com/company/UDPServer.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="580">
-                  <caret line="71" column="48" lean-forward="true" selection-start-line="71" selection-start-column="48" selection-end-line="71" selection-end-column="48" />
+                <state relative-caret-position="509">
+                  <caret line="54" column="30" lean-forward="true" selection-start-line="54" selection-start-column="30" selection-end-line="54" selection-end-column="30" />
                   <folding>
+                    <element signature="e#0#3278#0" expanded="true" />
                     <element signature="imports" expanded="true" />
                     <element signature="e#402#403#0" expanded="true" />
                     <element signature="e#436#437#0" expanded="true" />
-                    <element signature="e#707#708#0" expanded="true" />
-                    <element signature="e#733#734#0" expanded="true" />
-                    <element signature="e#789#790#0" expanded="true" />
-                    <element signature="e#824#825#0" expanded="true" />
                     <element signature="e#467#468#0" expanded="true" />
                     <element signature="e#493#494#0" expanded="true" />
                   </folding>
@@ -79,11 +76,11 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/com/company/UDPClient.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="1094">
-                  <caret line="131" column="41" lean-forward="true" selection-start-line="131" selection-start-column="41" selection-end-line="131" selection-end-column="41" />
+                <state relative-caret-position="529">
+                  <caret line="35" column="38" lean-forward="true" selection-start-line="35" selection-start-column="38" selection-end-line="35" selection-end-column="38" />
                   <folding>
-                    <element signature="e#1365#1366#0" expanded="true" />
-                    <element signature="e#1395#1396#0" expanded="true" />
+                    <element signature="e#0#4612#0" expanded="true" />
+                    <element signature="imports" expanded="true" />
                     <element signature="e#1173#1174#0" expanded="true" />
                     <element signature="e#1207#1208#0" expanded="true" />
                   </folding>
@@ -106,6 +103,7 @@
     <findStrings>
       <find>System.out.println(</find>
       <find>REQUEST</find>
+      <find>getbyname</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -114,8 +112,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/company/UDPServer.java" />
         <option value="$PROJECT_DIR$/src/com/company/UDPClient.java" />
+        <option value="$PROJECT_DIR$/src/com/company/UDPServer.java" />
       </list>
     </option>
   </component>
@@ -196,7 +194,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542077439287" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542080927384" />
     <property name="project.structure.last.edited" value="Problems" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -342,33 +340,30 @@
         <state relative-caret-position="-49" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/UDPServer.java">
+    <entry file="file://$PROJECT_DIR$/src/com/company/UDPClient.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="580">
-          <caret line="71" column="48" lean-forward="true" selection-start-line="71" selection-start-column="48" selection-end-line="71" selection-end-column="48" />
+        <state relative-caret-position="529">
+          <caret line="35" column="38" lean-forward="true" selection-start-line="35" selection-start-column="38" selection-end-line="35" selection-end-column="38" />
           <folding>
+            <element signature="e#0#4612#0" expanded="true" />
             <element signature="imports" expanded="true" />
-            <element signature="e#402#403#0" expanded="true" />
-            <element signature="e#436#437#0" expanded="true" />
-            <element signature="e#707#708#0" expanded="true" />
-            <element signature="e#733#734#0" expanded="true" />
-            <element signature="e#789#790#0" expanded="true" />
-            <element signature="e#824#825#0" expanded="true" />
-            <element signature="e#467#468#0" expanded="true" />
-            <element signature="e#493#494#0" expanded="true" />
+            <element signature="e#1173#1174#0" expanded="true" />
+            <element signature="e#1207#1208#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/UDPClient.java">
+    <entry file="file://$PROJECT_DIR$/src/com/company/UDPServer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1094">
-          <caret line="131" column="41" lean-forward="true" selection-start-line="131" selection-start-column="41" selection-end-line="131" selection-end-column="41" />
+        <state relative-caret-position="509">
+          <caret line="54" column="30" lean-forward="true" selection-start-line="54" selection-start-column="30" selection-end-line="54" selection-end-column="30" />
           <folding>
-            <element signature="e#1365#1366#0" expanded="true" />
-            <element signature="e#1395#1396#0" expanded="true" />
-            <element signature="e#1173#1174#0" expanded="true" />
-            <element signature="e#1207#1208#0" expanded="true" />
+            <element signature="e#0#3278#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#402#403#0" expanded="true" />
+            <element signature="e#436#437#0" expanded="true" />
+            <element signature="e#467#468#0" expanded="true" />
+            <element signature="e#493#494#0" expanded="true" />
           </folding>
         </state>
       </provider>
