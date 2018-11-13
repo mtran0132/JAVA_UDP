@@ -12,7 +12,7 @@ All you really need is the "UDPClientServer" folder within the "out" folder.
 You need at least JDK 11  
 
 #### Installing JDK 11 for Windows  
-[JDK 11 Download](https://www.oracle.com/technetwork/java/javase/downloads/jdk11-downloads-5066655.html)
+[JDK 11 Download](https://www.oracle.com/technetwork/java/javase/downloads/jdk11-downloads-5066655.html)  
 Once you run and install, you can check in your cmd by  
 ```java -version```  
 You should get: ``` java version "11.0.1" 2018-10-16```  
@@ -30,7 +30,7 @@ On Windows 10, you press the "Windows" button
 9. Click "New" and then type in ```%JAVA_HOME%\bin```  
 10. Open another cmd and check again.   
 
-me## Running the program
+## Running the program
 
 Open up two command MS-DOS windows  
 One for the server and one for the client  
