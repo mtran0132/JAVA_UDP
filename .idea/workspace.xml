@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="299d8026-0d1f-4b50-9c9b-c329e5e8b1c0" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/UDPServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/UDPServer.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -45,23 +45,38 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="1867678543">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="117" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="117" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.47627574">
+    <splitter split-orientation="horizontal" split-proportion="0.5503937">
       <split-first>
-        <leaf>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/com/company/UDPServer.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="340">
-                  <caret line="17" column="21" lean-forward="true" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
+                <state relative-caret-position="1122">
+                  <caret line="72" column="33" lean-forward="true" selection-start-line="72" selection-start-column="33" selection-end-line="72" selection-end-column="33" />
                   <folding>
-                    <element signature="e#0#3278#0" expanded="true" />
                     <element signature="imports" expanded="true" />
-                    <element signature="e#402#403#0" expanded="true" />
-                    <element signature="e#436#437#0" expanded="true" />
-                    <element signature="e#467#468#0" expanded="true" />
-                    <element signature="e#493#494#0" expanded="true" />
+                    <element signature="e#865#866#0" expanded="true" />
+                    <element signature="e#897#898#0" expanded="true" />
                   </folding>
                 </state>
               </provider>
@@ -70,17 +85,14 @@
         </leaf>
       </split-first>
       <split-second>
-        <leaf>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/com/company/UDPClient.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="400">
-                  <caret line="20" column="24" selection-start-line="20" selection-start-column="24" selection-end-line="20" selection-end-column="24" />
+                <state relative-caret-position="255">
+                  <caret line="19" column="24" lean-forward="true" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
                   <folding>
-                    <element signature="e#0#4612#0" expanded="true" />
                     <element signature="imports" expanded="true" />
-                    <element signature="e#1173#1174#0" expanded="true" />
-                    <element signature="e#1207#1208#0" expanded="true" />
                   </folding>
                 </state>
               </provider>
@@ -115,11 +127,11 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="94" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="93" />
     <option name="y" value="360" />
-    <option name="width" value="1400" />
-    <option name="height" value="1000" />
+    <option name="width" value="1401" />
+    <option name="height" value="1001" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -133,17 +145,17 @@
         <subPane>
           <expand>
             <path>
-              <item name="UDPClientServer" type="b2602c69:ProjectViewProjectNode" />
-              <item name="UDPClientServer" type="462c0819:PsiDirectoryNode" />
+              <item name="JAVA_UDP" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JAVA_UDP" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="UDPClientServer" type="b2602c69:ProjectViewProjectNode" />
-              <item name="UDPClientServer" type="462c0819:PsiDirectoryNode" />
+              <item name="JAVA_UDP" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JAVA_UDP" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="UDPClientServer" type="b2602c69:ProjectViewProjectNode" />
-              <item name="UDPClientServer" type="462c0819:PsiDirectoryNode" />
+              <item name="JAVA_UDP" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JAVA_UDP" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="company" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -151,14 +163,14 @@
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542082099385" />
-    <property name="project.structure.last.edited" value="Problems" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.editor" />
@@ -187,7 +199,7 @@
       </method>
     </configuration>
     <configuration name="UDPClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="ALTERNATIVE_JRE_PATH" value="D:/Program Files/Java/jdk-11.0.1" />
+      <option name="ALTERNATIVE_JRE_PATH" value="C:/Program Files/Java/jdk-11.0.1" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <option name="MAIN_CLASS_NAME" value="com.company.UDPClient" />
       <module name="UDPClientServer" />
@@ -234,10 +246,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="2576" height="1416" extended-state="6" />
+    <frame x="-7" y="-7" width="1455" height="935" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.11208267" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.089605734" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -305,28 +317,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/UDPServer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="17" column="21" lean-forward="true" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
+        <state relative-caret-position="1122">
+          <caret line="72" column="33" lean-forward="true" selection-start-line="72" selection-start-column="33" selection-end-line="72" selection-end-column="33" />
           <folding>
-            <element signature="e#0#3278#0" expanded="true" />
             <element signature="imports" expanded="true" />
-            <element signature="e#402#403#0" expanded="true" />
-            <element signature="e#436#437#0" expanded="true" />
-            <element signature="e#467#468#0" expanded="true" />
-            <element signature="e#493#494#0" expanded="true" />
+            <element signature="e#865#866#0" expanded="true" />
+            <element signature="e#897#898#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/UDPClient.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="20" column="24" selection-start-line="20" selection-start-column="24" selection-end-line="20" selection-end-column="24" />
+        <state relative-caret-position="255">
+          <caret line="19" column="24" lean-forward="true" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
           <folding>
-            <element signature="e#0#4612#0" expanded="true" />
             <element signature="imports" expanded="true" />
-            <element signature="e#1173#1174#0" expanded="true" />
-            <element signature="e#1207#1208#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -389,6 +395,18 @@
               <list>
                 <option value="0.2" />
                 <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
               </list>
             </option>
           </splitter-proportions>

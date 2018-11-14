@@ -50,6 +50,9 @@ public class UDPServer extends JFrame{
             this.socket.receive(request);
             this.request = request;
 
+            System.out.println("Received from Client: " + request.getAddress());
+            System.out.println("Message: " + new String(request.getData()));
+
             // Server crafts a reply
             DatagramPacket reply = new DatagramPacket(request.getData(), request.getLength(), request.getAddress(), request.getPort());
             // Sends the reply
